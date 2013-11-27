@@ -1,4 +1,4 @@
-# Eduardo's dotfiles
+# Zeno's dotfiles
 
 [![Dependencies Status](http://img.shields.io/david/eduardolundgren/dotfiles.svg?style=flat)](https://david-dm.org/eduardolundgren/dotfiles)
 [![PeerDependencies Status](http://img.shields.io/david/peer/eduardolundgren/dotfiles.svg?style=flat)](https://david-dm.org/eduardolundgren/dotfiles#info=peerDependencies)
