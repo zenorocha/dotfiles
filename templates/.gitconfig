@@ -9,6 +9,7 @@
 
     # Commit
     cm = commit -m
+    csm = commit -S -m
     ca = commit --amend -m
 
     # Checkout
